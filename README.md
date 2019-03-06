@@ -21,4 +21,6 @@
 кровь
 слава
 сердце
-№4 ![] (concordance.PD
+№4 ![] (concordance.PNG)
+№5 ![] (frequence.PNG)
+№6 ![] (collocate.PNG)
