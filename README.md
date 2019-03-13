@@ -21,10 +21,13 @@
 кровь
 слава
 сердце
+
 №4
 ![](concordance.PNG)
+
 №5
 ![](frequency.PNG)
+
 №6
 ![](collocate.PNG)
 
