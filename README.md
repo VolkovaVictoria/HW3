@@ -76,7 +76,7 @@
 
 ![](ngram2.2.PNG)
 
-
+![](ngram3.PNG)
 
 ![](ngram3.3.PNG)
 
