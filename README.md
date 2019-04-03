@@ -46,15 +46,15 @@
 
 №4
 
-![](concordance1.PGN)
+![](concordance1.PNG)
 
-![](concordance2.PGN)
+![](concordance2.PNG)
 
-![](concordance3.PGN)
+![](concordance3.PNG)
 
 №5
 
-![](concordance4.PGN)
+![](concordance4.PNG)
 
 №6
 
