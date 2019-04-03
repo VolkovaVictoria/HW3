@@ -44,6 +44,8 @@
 
 ДОМАШНЯЯ РАБОТА
 
+1)
+
 №4
 
 ![](concordance1.PNG)
@@ -54,9 +56,31 @@
 
 №5
 
+![](n-grames.PNG)
+
 ![](concordance4.PNG)
 
 №6
+
+![](collocate1.PNG)
+
+2)
+
+№2
+
+![](ngram1.PNG)
+
+![](ngram1.1.PNG)
+
+![](ngram2.PNG)
+
+![](ngram2.2.PNG)
+
+![](ngram3.PNG)
+
+![](ngram3.3.PNG)
+
+
 
 
 
