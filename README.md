@@ -43,5 +43,20 @@
 
 
 ДОМАШНЯЯ РАБОТА
+
 №4
+
+![](concordance1.PGN)
+
+![](concordance2.PGN)
+
+![](concordance3.PGN)
+
+№5
+
+![](concordance4.PGN)
+
+№6
+
+
 
